@@ -1,0 +1,11 @@
+# general
+- add a status report every x amount of x
+- clear command
+- auto delete last report(edit command can also work here) (working on this currently)✅. Done for now until i further develop it
+- clan war pings every 6? hours
+- some kind of sync system using user api
+
+
+# bugs
+- bot status not working✅
+- changed a annoying "bug" where /clear would print a bunch of errors, due to limit=amount + 1 also deletes /clear message, which then made followup message bug out
